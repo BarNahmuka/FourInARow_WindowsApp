@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectFourLogic", "ConnectFourLogic\ConnectFourLogic.csproj", "{610EC2EA-AEA3-49F6-B937-A7D9BE6A4CBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectFourUI", "ConnectFourUI\ConnectFourUI.csproj", "{7AC1DECD-FC1F-4721-82DD-5CABD4716019}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{610EC2EA-AEA3-49F6-B937-A7D9BE6A4CBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{610EC2EA-AEA3-49F6-B937-A7D9BE6A4CBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{610EC2EA-AEA3-49F6-B937-A7D9BE6A4CBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{610EC2EA-AEA3-49F6-B937-A7D9BE6A4CBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AC1DECD-FC1F-4721-82DD-5CABD4716019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AC1DECD-FC1F-4721-82DD-5CABD4716019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AC1DECD-FC1F-4721-82DD-5CABD4716019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AC1DECD-FC1F-4721-82DD-5CABD4716019}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0959A7DF-35FF-4C4C-8547-17E120D3F72C}
+	EndGlobalSection
+EndGlobal

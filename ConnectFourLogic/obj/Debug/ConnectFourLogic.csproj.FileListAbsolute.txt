@@ -1,0 +1,14 @@
+C:\Users\nahmu\OneDrive\שולחן העבודה\מדעי המחשב HIT\שנה ג\תכנות מונחה עצמים בשפת דוט נט וסי שארפ\תרגילים\תרגיל 2\FourInARow\ConnectFourLogic\bin\Debug\ConnectFourLogic.dll.config
+C:\Users\nahmu\OneDrive\שולחן העבודה\מדעי המחשב HIT\שנה ג\תכנות מונחה עצמים בשפת דוט נט וסי שארפ\תרגילים\תרגיל 2\FourInARow\ConnectFourLogic\bin\Debug\ConnectFourLogic.dll
+C:\Users\nahmu\OneDrive\שולחן העבודה\מדעי המחשב HIT\שנה ג\תכנות מונחה עצמים בשפת דוט נט וסי שארפ\תרגילים\תרגיל 2\FourInARow\ConnectFourLogic\bin\Debug\ConnectFourLogic.pdb
+C:\Users\nahmu\OneDrive\שולחן העבודה\מדעי המחשב HIT\שנה ג\תכנות מונחה עצמים בשפת דוט נט וסי שארפ\תרגילים\תרגיל 2\FourInARow\ConnectFourLogic\obj\Debug\ConnectFourLogic.csprojAssemblyReference.cache
+C:\Users\nahmu\OneDrive\שולחן העבודה\מדעי המחשב HIT\שנה ג\תכנות מונחה עצמים בשפת דוט נט וסי שארפ\תרגילים\תרגיל 2\FourInARow\ConnectFourLogic\obj\Debug\ConnectFourLogic.csproj.CoreCompileInputs.cache
+C:\Users\nahmu\OneDrive\שולחן העבודה\מדעי המחשב HIT\שנה ג\תכנות מונחה עצמים בשפת דוט נט וסי שארפ\תרגילים\תרגיל 2\FourInARow\ConnectFourLogic\obj\Debug\ConnectFourLogic.dll
+C:\Users\nahmu\OneDrive\שולחן העבודה\מדעי המחשב HIT\שנה ג\תכנות מונחה עצמים בשפת דוט נט וסי שארפ\תרגילים\תרגיל 2\FourInARow\ConnectFourLogic\obj\Debug\ConnectFourLogic.pdb
+C:\Users\nahmu\OneDrive\שולחן העבודה\מדעי המחשב HIT\שנה ג\סמסטר א\תכנות מונחה עצמים בשפת דוט נט וסי שארפ\תרגילים\תרגיל 2\FourInARow\ConnectFourLogic\bin\Debug\ConnectFourLogic.dll.config
+C:\Users\nahmu\OneDrive\שולחן העבודה\מדעי המחשב HIT\שנה ג\סמסטר א\תכנות מונחה עצמים בשפת דוט נט וסי שארפ\תרגילים\תרגיל 2\FourInARow\ConnectFourLogic\bin\Debug\ConnectFourLogic.dll
+C:\Users\nahmu\OneDrive\שולחן העבודה\מדעי המחשב HIT\שנה ג\סמסטר א\תכנות מונחה עצמים בשפת דוט נט וסי שארפ\תרגילים\תרגיל 2\FourInARow\ConnectFourLogic\bin\Debug\ConnectFourLogic.pdb
+C:\Users\nahmu\OneDrive\שולחן העבודה\מדעי המחשב HIT\שנה ג\סמסטר א\תכנות מונחה עצמים בשפת דוט נט וסי שארפ\תרגילים\תרגיל 2\FourInARow\ConnectFourLogic\obj\Debug\ConnectFourLogic.csproj.AssemblyReference.cache
+C:\Users\nahmu\OneDrive\שולחן העבודה\מדעי המחשב HIT\שנה ג\סמסטר א\תכנות מונחה עצמים בשפת דוט נט וסי שארפ\תרגילים\תרגיל 2\FourInARow\ConnectFourLogic\obj\Debug\ConnectFourLogic.csproj.CoreCompileInputs.cache
+C:\Users\nahmu\OneDrive\שולחן העבודה\מדעי המחשב HIT\שנה ג\סמסטר א\תכנות מונחה עצמים בשפת דוט נט וסי שארפ\תרגילים\תרגיל 2\FourInARow\ConnectFourLogic\obj\Debug\ConnectFourLogic.dll
+C:\Users\nahmu\OneDrive\שולחן העבודה\מדעי המחשב HIT\שנה ג\סמסטר א\תכנות מונחה עצמים בשפת דוט נט וסי שארפ\תרגילים\תרגיל 2\FourInARow\ConnectFourLogic\obj\Debug\ConnectFourLogic.pdb

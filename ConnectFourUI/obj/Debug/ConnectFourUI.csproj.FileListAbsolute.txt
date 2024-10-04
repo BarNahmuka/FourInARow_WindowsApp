@@ -1,0 +1,14 @@
+C:\Users\nahmu\OneDrive\שולחן העבודה\מדעי המחשב HIT\שנה ג\תכנות מונחה עצמים בשפת דוט נט וסי שארפ\תרגילים\תרגיל 2\FourInARow\ConnectFourUI\obj\Debug\ConnectFourUI.csprojAssemblyReference.cache
+C:\Users\nahmu\OneDrive\שולחן העבודה\מדעי המחשב HIT\שנה ג\תכנות מונחה עצמים בשפת דוט נט וסי שארפ\תרגילים\תרגיל 2\FourInARow\ConnectFourUI\obj\Debug\ConnectFourUI.csproj.CoreCompileInputs.cache
+C:\Users\nahmu\OneDrive\שולחן העבודה\מדעי המחשב HIT\שנה ג\סמסטר א\תכנות מונחה עצמים בשפת דוט נט וסי שארפ\תרגילים\תרגיל 2\FourInARow\ConnectFourUI\obj\Debug\ConnectFourUI.csproj.AssemblyReference.cache
+C:\Users\nahmu\OneDrive\שולחן העבודה\מדעי המחשב HIT\שנה ג\סמסטר א\תכנות מונחה עצמים בשפת דוט נט וסי שארפ\תרגילים\תרגיל 2\FourInARow\ConnectFourUI\obj\Debug\ConnectFourUI.csproj.CoreCompileInputs.cache
+C:\Users\nahmu\OneDrive\שולחן העבודה\מדעי המחשב HIT\שנה ג\סמסטר א\תכנות מונחה עצמים בשפת דוט נט וסי שארפ\תרגילים\תרגיל 2\FourInARow\ConnectFourUI\bin\Debug\ConnectFourUI.exe.config
+C:\Users\nahmu\OneDrive\שולחן העבודה\מדעי המחשב HIT\שנה ג\סמסטר א\תכנות מונחה עצמים בשפת דוט נט וסי שארפ\תרגילים\תרגיל 2\FourInARow\ConnectFourUI\bin\Debug\ConnectFourUI.exe
+C:\Users\nahmu\OneDrive\שולחן העבודה\מדעי המחשב HIT\שנה ג\סמסטר א\תכנות מונחה עצמים בשפת דוט נט וסי שארפ\תרגילים\תרגיל 2\FourInARow\ConnectFourUI\bin\Debug\ConnectFourUI.pdb
+C:\Users\nahmu\OneDrive\שולחן העבודה\מדעי המחשב HIT\שנה ג\סמסטר א\תכנות מונחה עצמים בשפת דוט נט וסי שארפ\תרגילים\תרגיל 2\FourInARow\ConnectFourUI\bin\Debug\ConnectFourLogic.dll
+C:\Users\nahmu\OneDrive\שולחן העבודה\מדעי המחשב HIT\שנה ג\סמסטר א\תכנות מונחה עצמים בשפת דוט נט וסי שארפ\תרגילים\תרגיל 2\FourInARow\ConnectFourUI\bin\Debug\Ex02.ConsoleUtils.dll
+C:\Users\nahmu\OneDrive\שולחן העבודה\מדעי המחשב HIT\שנה ג\סמסטר א\תכנות מונחה עצמים בשפת דוט נט וסי שארפ\תרגילים\תרגיל 2\FourInARow\ConnectFourUI\bin\Debug\ConnectFourLogic.pdb
+C:\Users\nahmu\OneDrive\שולחן העבודה\מדעי המחשב HIT\שנה ג\סמסטר א\תכנות מונחה עצמים בשפת דוט נט וסי שארפ\תרגילים\תרגיל 2\FourInARow\ConnectFourUI\bin\Debug\ConnectFourLogic.dll.config
+C:\Users\nahmu\OneDrive\שולחן העבודה\מדעי המחשב HIT\שנה ג\סמסטר א\תכנות מונחה עצמים בשפת דוט נט וסי שארפ\תרגילים\תרגיל 2\FourInARow\ConnectFourUI\obj\Debug\ConnectF.A7F6BB34.Up2Date
+C:\Users\nahmu\OneDrive\שולחן העבודה\מדעי המחשב HIT\שנה ג\סמסטר א\תכנות מונחה עצמים בשפת דוט נט וסי שארפ\תרגילים\תרגיל 2\FourInARow\ConnectFourUI\obj\Debug\ConnectFourUI.exe
+C:\Users\nahmu\OneDrive\שולחן העבודה\מדעי המחשב HIT\שנה ג\סמסטר א\תכנות מונחה עצמים בשפת דוט נט וסי שארפ\תרגילים\תרגיל 2\FourInARow\ConnectFourUI\obj\Debug\ConnectFourUI.pdb

@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1 HIT\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D0\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD \u05D1\u05E9\u05E4\u05EA \u05D3\u05D5\u05D8 \u05E0\u05D8 \u05D5\u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05EA\u05E8\u05D2\u05D9\u05DC 2\\FourInARow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1 HIT\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D0\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD \u05D1\u05E9\u05E4\u05EA \u05D3\u05D5\u05D8 \u05E0\u05D8 \u05D5\u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05EA\u05E8\u05D2\u05D9\u05DC 2\\FourInARow\\A24 Ex02 BarNahmuka 205386899 GalNatan 205890569\\ConnectFourUI\\Validate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:A24 Ex02 BarNahmuka 205386899 GalNatan 205890569\\ConnectFourUI\\Validate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC1DECD-FC1F-4721-82DD-5CABD4716019}|ConnectFourUI\\ConnectFourUI.csproj|C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1 HIT\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D0\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD \u05D1\u05E9\u05E4\u05EA \u05D3\u05D5\u05D8 \u05E0\u05D8 \u05D5\u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05EA\u05E8\u05D2\u05D9\u05DC 2\\FourInARow\\connectfourui\\validate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC1DECD-FC1F-4721-82DD-5CABD4716019}|ConnectFourUI\\ConnectFourUI.csproj|solutionrelative:connectfourui\\validate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC1DECD-FC1F-4721-82DD-5CABD4716019}|ConnectFourUI\\ConnectFourUI.csproj|C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1 HIT\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D0\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD \u05D1\u05E9\u05E4\u05EA \u05D3\u05D5\u05D8 \u05E0\u05D8 \u05D5\u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05EA\u05E8\u05D2\u05D9\u05DC 2\\FourInARow\\connectfourui\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC1DECD-FC1F-4721-82DD-5CABD4716019}|ConnectFourUI\\ConnectFourUI.csproj|solutionrelative:connectfourui\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{610EC2EA-AEA3-49F6-B937-A7D9BE6A4CBB}|ConnectFourLogic\\ConnectFourLogic.csproj|C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1 HIT\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D0\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD \u05D1\u05E9\u05E4\u05EA \u05D3\u05D5\u05D8 \u05E0\u05D8 \u05D5\u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05EA\u05E8\u05D2\u05D9\u05DC 2\\FourInARow\\connectfourlogic\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{610EC2EA-AEA3-49F6-B937-A7D9BE6A4CBB}|ConnectFourLogic\\ConnectFourLogic.csproj|solutionrelative:connectfourlogic\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC1DECD-FC1F-4721-82DD-5CABD4716019}|ConnectFourUI\\ConnectFourUI.csproj|C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1 HIT\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D0\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD \u05D1\u05E9\u05E4\u05EA \u05D3\u05D5\u05D8 \u05E0\u05D8 \u05D5\u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05EA\u05E8\u05D2\u05D9\u05DC 2\\FourInARow\\connectfourui\\gamemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC1DECD-FC1F-4721-82DD-5CABD4716019}|ConnectFourUI\\ConnectFourUI.csproj|solutionrelative:connectfourui\\gamemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{610EC2EA-AEA3-49F6-B937-A7D9BE6A4CBB}|ConnectFourLogic\\ConnectFourLogic.csproj|C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1 HIT\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D0\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD \u05D1\u05E9\u05E4\u05EA \u05D3\u05D5\u05D8 \u05E0\u05D8 \u05D5\u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05EA\u05E8\u05D2\u05D9\u05DC 2\\FourInARow\\connectfourlogic\\celloptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{610EC2EA-AEA3-49F6-B937-A7D9BE6A4CBB}|ConnectFourLogic\\ConnectFourLogic.csproj|solutionrelative:connectfourlogic\\celloptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{610EC2EA-AEA3-49F6-B937-A7D9BE6A4CBB}|ConnectFourLogic\\ConnectFourLogic.csproj|C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1 HIT\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D0\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD \u05D1\u05E9\u05E4\u05EA \u05D3\u05D5\u05D8 \u05E0\u05D8 \u05D5\u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05EA\u05E8\u05D2\u05D9\u05DC 2\\FourInARow\\connectfourlogic\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{610EC2EA-AEA3-49F6-B937-A7D9BE6A4CBB}|ConnectFourLogic\\ConnectFourLogic.csproj|solutionrelative:connectfourlogic\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{610EC2EA-AEA3-49F6-B937-A7D9BE6A4CBB}|ConnectFourLogic\\ConnectFourLogic.csproj|C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1 HIT\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D0\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD \u05D1\u05E9\u05E4\u05EA \u05D3\u05D5\u05D8 \u05E0\u05D8 \u05D5\u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05EA\u05E8\u05D2\u05D9\u05DC 2\\FourInARow\\connectfourlogic\\pc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{610EC2EA-AEA3-49F6-B937-A7D9BE6A4CBB}|ConnectFourLogic\\ConnectFourLogic.csproj|solutionrelative:connectfourlogic\\pc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{610EC2EA-AEA3-49F6-B937-A7D9BE6A4CBB}|ConnectFourLogic\\ConnectFourLogic.csproj|C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1 HIT\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D0\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD \u05D1\u05E9\u05E4\u05EA \u05D3\u05D5\u05D8 \u05E0\u05D8 \u05D5\u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05EA\u05E8\u05D2\u05D9\u05DC 2\\FourInARow\\connectfourlogic\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{610EC2EA-AEA3-49F6-B937-A7D9BE6A4CBB}|ConnectFourLogic\\ConnectFourLogic.csproj|solutionrelative:connectfourlogic\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC1DECD-FC1F-4721-82DD-5CABD4716019}|ConnectFourUI\\ConnectFourUI.csproj|C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1 HIT\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D0\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD \u05D1\u05E9\u05E4\u05EA \u05D3\u05D5\u05D8 \u05E0\u05D8 \u05D5\u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05EA\u05E8\u05D2\u05D9\u05DC 2\\FourInARow\\connectfourui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC1DECD-FC1F-4721-82DD-5CABD4716019}|ConnectFourUI\\ConnectFourUI.csproj|solutionrelative:connectfourui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Validate.cs",
+              "DocumentMoniker": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1 HIT\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D0\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD \u05D1\u05E9\u05E4\u05EA \u05D3\u05D5\u05D8 \u05E0\u05D8 \u05D5\u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05EA\u05E8\u05D2\u05D9\u05DC 2\\FourInARow\\A24 Ex02 BarNahmuka 205386899 GalNatan 205890569\\ConnectFourUI\\Validate.cs",
+              "RelativeDocumentMoniker": "A24 Ex02 BarNahmuka 205386899 GalNatan 205890569\\ConnectFourUI\\Validate.cs",
+              "ToolTip": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1 HIT\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D0\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD \u05D1\u05E9\u05E4\u05EA \u05D3\u05D5\u05D8 \u05E0\u05D8 \u05D5\u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05EA\u05E8\u05D2\u05D9\u05DC 2\\FourInARow\\A24 Ex02 BarNahmuka 205386899 GalNatan 205890569\\ConnectFourUI\\Validate.cs",
+              "RelativeToolTip": "A24 Ex02 BarNahmuka 205386899 GalNatan 205890569\\ConnectFourUI\\Validate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:30:05.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Validate.cs",
+              "DocumentMoniker": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1 HIT\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D0\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD \u05D1\u05E9\u05E4\u05EA \u05D3\u05D5\u05D8 \u05E0\u05D8 \u05D5\u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05EA\u05E8\u05D2\u05D9\u05DC 2\\FourInARow\\ConnectFourUI\\Validate.cs",
+              "RelativeDocumentMoniker": "ConnectFourUI\\Validate.cs",
+              "ToolTip": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1 HIT\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D0\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD \u05D1\u05E9\u05E4\u05EA \u05D3\u05D5\u05D8 \u05E0\u05D8 \u05D5\u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05EA\u05E8\u05D2\u05D9\u05DC 2\\FourInARow\\ConnectFourUI\\Validate.cs",
+              "RelativeToolTip": "ConnectFourUI\\Validate.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:30:05.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameManagement.cs",
+              "DocumentMoniker": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1 HIT\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D0\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD \u05D1\u05E9\u05E4\u05EA \u05D3\u05D5\u05D8 \u05E0\u05D8 \u05D5\u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05EA\u05E8\u05D2\u05D9\u05DC 2\\FourInARow\\ConnectFourUI\\GameManagement.cs",
+              "RelativeDocumentMoniker": "ConnectFourUI\\GameManagement.cs",
+              "ToolTip": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1 HIT\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D0\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD \u05D1\u05E9\u05E4\u05EA \u05D3\u05D5\u05D8 \u05E0\u05D8 \u05D5\u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05EA\u05E8\u05D2\u05D9\u05DC 2\\FourInARow\\ConnectFourUI\\GameManagement.cs",
+              "RelativeToolTip": "ConnectFourUI\\GameManagement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:30:05.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1 HIT\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D0\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD \u05D1\u05E9\u05E4\u05EA \u05D3\u05D5\u05D8 \u05E0\u05D8 \u05D5\u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05EA\u05E8\u05D2\u05D9\u05DC 2\\FourInARow\\ConnectFourLogic\\Board.cs",
+              "RelativeDocumentMoniker": "ConnectFourLogic\\Board.cs",
+              "ToolTip": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1 HIT\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D0\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD \u05D1\u05E9\u05E4\u05EA \u05D3\u05D5\u05D8 \u05E0\u05D8 \u05D5\u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05EA\u05E8\u05D2\u05D9\u05DC 2\\FourInARow\\ConnectFourLogic\\Board.cs",
+              "RelativeToolTip": "ConnectFourLogic\\Board.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:30:05.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CellOptions.cs",
+              "DocumentMoniker": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1 HIT\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D0\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD \u05D1\u05E9\u05E4\u05EA \u05D3\u05D5\u05D8 \u05E0\u05D8 \u05D5\u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05EA\u05E8\u05D2\u05D9\u05DC 2\\FourInARow\\ConnectFourLogic\\CellOptions.cs",
+              "RelativeDocumentMoniker": "ConnectFourLogic\\CellOptions.cs",
+              "ToolTip": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1 HIT\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D0\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD \u05D1\u05E9\u05E4\u05EA \u05D3\u05D5\u05D8 \u05E0\u05D8 \u05D5\u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05EA\u05E8\u05D2\u05D9\u05DC 2\\FourInARow\\ConnectFourLogic\\CellOptions.cs",
+              "RelativeToolTip": "ConnectFourLogic\\CellOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:30:05.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1 HIT\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D0\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD \u05D1\u05E9\u05E4\u05EA \u05D3\u05D5\u05D8 \u05E0\u05D8 \u05D5\u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05EA\u05E8\u05D2\u05D9\u05DC 2\\FourInARow\\ConnectFourLogic\\Game.cs",
+              "RelativeDocumentMoniker": "ConnectFourLogic\\Game.cs",
+              "ToolTip": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1 HIT\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D0\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD \u05D1\u05E9\u05E4\u05EA \u05D3\u05D5\u05D8 \u05E0\u05D8 \u05D5\u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05EA\u05E8\u05D2\u05D9\u05DC 2\\FourInARow\\ConnectFourLogic\\Game.cs",
+              "RelativeToolTip": "ConnectFourLogic\\Game.cs",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAUwGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:30:05.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PC.cs",
+              "DocumentMoniker": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1 HIT\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D0\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD \u05D1\u05E9\u05E4\u05EA \u05D3\u05D5\u05D8 \u05E0\u05D8 \u05D5\u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05EA\u05E8\u05D2\u05D9\u05DC 2\\FourInARow\\ConnectFourLogic\\PC.cs",
+              "RelativeDocumentMoniker": "ConnectFourLogic\\PC.cs",
+              "ToolTip": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1 HIT\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D0\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD \u05D1\u05E9\u05E4\u05EA \u05D3\u05D5\u05D8 \u05E0\u05D8 \u05D5\u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05EA\u05E8\u05D2\u05D9\u05DC 2\\FourInARow\\ConnectFourLogic\\PC.cs",
+              "RelativeToolTip": "ConnectFourLogic\\PC.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAcwEIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:30:05.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1 HIT\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D0\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD \u05D1\u05E9\u05E4\u05EA \u05D3\u05D5\u05D8 \u05E0\u05D8 \u05D5\u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05EA\u05E8\u05D2\u05D9\u05DC 2\\FourInARow\\ConnectFourLogic\\Player.cs",
+              "RelativeDocumentMoniker": "ConnectFourLogic\\Player.cs",
+              "ToolTip": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1 HIT\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D0\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD \u05D1\u05E9\u05E4\u05EA \u05D3\u05D5\u05D8 \u05E0\u05D8 \u05D5\u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05EA\u05E8\u05D2\u05D9\u05DC 2\\FourInARow\\ConnectFourLogic\\Player.cs",
+              "RelativeToolTip": "ConnectFourLogic\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:30:05.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1 HIT\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D0\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD \u05D1\u05E9\u05E4\u05EA \u05D3\u05D5\u05D8 \u05E0\u05D8 \u05D5\u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05EA\u05E8\u05D2\u05D9\u05DC 2\\FourInARow\\ConnectFourUI\\Menu.cs",
+              "RelativeDocumentMoniker": "ConnectFourUI\\Menu.cs",
+              "ToolTip": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1 HIT\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D0\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD \u05D1\u05E9\u05E4\u05EA \u05D3\u05D5\u05D8 \u05E0\u05D8 \u05D5\u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05EA\u05E8\u05D2\u05D9\u05DC 2\\FourInARow\\ConnectFourUI\\Menu.cs",
+              "RelativeToolTip": "ConnectFourUI\\Menu.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:30:05.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1 HIT\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D0\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD \u05D1\u05E9\u05E4\u05EA \u05D3\u05D5\u05D8 \u05E0\u05D8 \u05D5\u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05EA\u05E8\u05D2\u05D9\u05DC 2\\FourInARow\\ConnectFourUI\\Program.cs",
+              "RelativeDocumentMoniker": "ConnectFourUI\\Program.cs",
+              "ToolTip": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DE\u05D3\u05E2\u05D9 \u05D4\u05DE\u05D7\u05E9\u05D1 HIT\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D0\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD \u05D1\u05E9\u05E4\u05EA \u05D3\u05D5\u05D8 \u05E0\u05D8 \u05D5\u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05EA\u05E8\u05D2\u05D9\u05DC 2\\FourInARow\\ConnectFourUI\\Program.cs",
+              "RelativeToolTip": "ConnectFourUI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:30:05.267Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
