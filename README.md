@@ -4,7 +4,7 @@ The project is designed with a strong emphasis on Object-Oriented Programming (O
 Additionally, it utilizes events and delegates to create a responsive and engaging gaming experience.
 
 ## Installation
-- Clone the repository: git clone 
+- Clone the repository: git clone https://github.com/BarNahmuka/FourInARow_WindowsApp
 - Open the project in Visual Studio.
 - Build the logic solution.
 - Build and run the UI solution.
